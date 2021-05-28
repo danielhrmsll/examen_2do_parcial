@@ -1,0 +1,19 @@
+#cuerpo {
+	background: #2193b0;
+	background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+	background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+#contenedor {
+	width: 100%;
+	text-align: center;
+	margin-top: 50px;
+}
+
+button {
+	margin-left: 10px;
+}
+
+li {
+	padding-bottom: 10px;
+}
